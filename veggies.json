@@ -1,0 +1,20 @@
+{
+    "vegetables":[
+      {
+        "name": "Cabbage",
+        "image": "https://www.freepngimg.com/thumb/categories/2970.png"
+      },
+      {
+        "name": "Capsicum",
+        "image": "https://www.nicepng.com/png/detail/52-525615_green-bell-pepper-png-green-capsicum-png.png"
+      },
+      {
+        "name": "Garlic",
+        "image": "https://www.freepngimg.com/thumb/garlic/2-2-garlic-transparent-thumb.png"
+      },
+      {
+        "name": "Beetroot",
+        "image": "https://pngimg.com/uploads/beet/beet_PNG28.png"
+      }
+    ]
+}
